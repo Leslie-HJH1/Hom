@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/2.2Basics/1.Building a Graph/Building a Graph.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
